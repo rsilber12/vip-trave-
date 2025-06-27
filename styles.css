@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f9f6ed;
+  font-family: 'Buvera Medium', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  color: #0d487d;
+  flex-direction: column;
+}
+
+.container {
+  padding: 20px;
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
+  max-height: 200px;
+  margin-bottom: 30px;
+}
+
+.coming-soon {
+  font-size: 2rem;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+.contact {
+  font-size: 1rem;
+  color: #0d487d;
+}
+
+.contact a {
+  color: #0d487d;
+  text-decoration: none;
+}
